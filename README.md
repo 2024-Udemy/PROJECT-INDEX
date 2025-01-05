@@ -1,3 +1,6 @@
+50 Projects in 50 Days - HTML/CSS and JavaScript
+
+
 | #  | Project Name                                                                 | Live Demo URL                                                                 |
 | ---| -----------------------------------------------------------------------------| ------------------------------------------------------------------------------|
 | 01 | [simple-timer](https://github.com/2024-Udemy/simple-timer)                    | [Live Demo](https://2024-Udemy.github.io/simple-timer/)                        |
