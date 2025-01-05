@@ -29,7 +29,7 @@
 | 24 | [toast-notification](https://github.com/2024-Udemy/toast-notification)        | [Live Demo](https://2024-Udemy.github.io/toast-notification/)                  |
 | 25 | [double-vertical-slider](https://github.com/2024-Udemy/double-vertical-slider)| [Live Demo](https://2024-Udemy.github.io/double-vertical-slider/)              |
 | 26 | [sticky-navbar](https://github.com/2024-Udemy/sticky-navbar)                  | [Live Demo](https://2024-Udemy.github.io/sticky-navbar/)                       |
-| 27 | [content_place_holder](https://github.com/2024-Udemy/content_place_holder)    | [Live Demo](https://2024-Udemy.github.io/content_place_holder/)                |
+| 27 | [content_place_holder](https://github.com/2024-Udemy/content_place-holder)    | [Live Demo](https://2024-udemy.github.io/content_place-holder/)                |
 | 28 | [drawing-app](https://github.com/2024-Udemy/drawing-app)                      | [Live Demo](https://2024-Udemy.github.io/drawing-app/)                         |
 | 29 | [drag-drop](https://github.com/2024-Udemy/drag-drop)                          | [Live Demo](https://2024-Udemy.github.io/drag-drop/)                           |
 | 30 | [button_ripple_effect](https://github.com/2024-Udemy/button_ripple_effect)    | [Live Demo](https://2024-Udemy.github.io/button_ripple_effect/)                |
