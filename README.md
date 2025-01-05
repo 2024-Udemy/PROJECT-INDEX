@@ -2,7 +2,7 @@
 | #   | Project Name                                      | Live Demo URL                                     |
 | --- | ------------------------------------------------- | ------------------------------------------------ |
 | 01  | [Expanding Cards](https://github.com/2024-Udemy/expanding-cards)             | [Live Demo](https://2024-Udemy.github.io/expanding-cards/) |
-| 02  | [Progress Steps](https://github.com/2024-Udemy/progress-steps)                | [Live Demo](https://2024-Udemy.github.io/progress-steps/) |
+| 02  | [Progress Steps](https://github.com/2024-Udemy/progressing_steps)               | [Live Demo](https://2024-Udemy.github.io/progress-steps/) |
 | 03  | [Rotating Navigation Animation](https://github.com/2024-Udemy/rotating-navigation-animation) | [Live Demo](https://2024-Udemy.github.io/rotating-navigation-animation/) |
 | 04  | [Hidden Search Widget](https://github.com/2024-Udemy/hidden-search-widget)    | [Live Demo](https://2024-Udemy.github.io/hidden-search-widget/) |
 | 05  | [Blurry Loading](https://github.com/2024-Udemy/blurry-loading)                | [Live Demo](https://2024-Udemy.github.io/blurry-loading/) |
